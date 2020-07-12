@@ -5,5 +5,6 @@
 public class problem {
     public static void main(String[] args) {
         System.out.println("这个问题已经解决了！");
+        System.out.println("不行，再改一下吧");
     }
 }
